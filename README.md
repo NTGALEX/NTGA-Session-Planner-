@@ -1,1 +1,1 @@
-# NTGA-Session-Planner-
+# NTGA-Session-Planner
